@@ -169,7 +169,7 @@ Step 5: Service Completion
 
 ---
 
-## 🚀 Future Scope
+## 🚀 Future Scope title
 
 ### Phase 2 Enhancements:
 - 🤖 **AI-Powered Queue Optimization** - Machine learning for dynamic wait time predictions
@@ -187,5 +187,7 @@ Step 5: Service Completion
 
 
 *Transforming Campus Services, One Token at a Time*
+
+
 
 
